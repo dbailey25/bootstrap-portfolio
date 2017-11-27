@@ -114,9 +114,9 @@ body {
   width: 70px;
 }
 
-/*.bottomMargin {
+.bottomMargin {
   margin-bottom: 30px;
-}*/
+}
 
 .navBarStyle {
   position: fixed;
