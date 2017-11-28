@@ -127,10 +127,15 @@ body {
 }
 
 .inlineImage {
-  float: left;
-  margin-right: 5px;
+  margin-bottom: 10px;
   display: inline-block;
-  max-width: 200px;
+  width: 50vw;
+  height: auto;
+}
+
+.sectionContainer {
+  width: 70vw;
+  max-width: 590px;
   height: auto;
 }
 
