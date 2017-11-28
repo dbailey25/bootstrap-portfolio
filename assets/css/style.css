@@ -45,10 +45,6 @@ body {
   width: 70px;
 }
 
-.bottomMargin {
-  margin-bottom: 30px;
-}
-
 .navBarStyle {
   position: fixed;
   width: 100%;
@@ -124,6 +120,10 @@ body {
 
 .rightMargin {
   margin-right: 30px;
+}
+
+.bottomMargin {
+  margin-bottom: 30px;
 }
 
 .inlineImage {
